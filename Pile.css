@@ -1,0 +1,149 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v23_115 {
+    width: 428px;
+    height: 926px;
+    background: rgba(255,87,116,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    margin:0px 500px;
+  }
+  .v23_136 {
+    width: 153px;
+    height: 138px;
+    /* background: url("../images/v23_136.png"); */
+    opacity: 1;
+    position: absolute;
+    top: 72px;
+    left: 138px;
+    border-radius: 50%;
+  }
+  .v23_137 {
+    width: 368px;
+    height: 895px;
+    background: rgba(247,146,164,1);
+    opacity: 1;
+    position: absolute;
+    top: 31px;
+    left: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v109_62 {
+    width: 66px;
+    height: 70px;
+    /* background: url("../images/v109_62.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 814px;
+    left: 46px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v109_61 {
+    width: 66px;
+    height: 70px;
+    /* background: url("../images/v109_61.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 814px;
+    left: 386px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v44_6 {
+    width: 153px;
+    height: 138px;
+    background-image: url(https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000);
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 60px;
+    left: 137px;
+    border-radius: 100%;
+  }
+  .v23_166 {
+    width: 319px;
+    height: 620px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 290px;
+    left: 55px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .v23_157 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 210px;
+    left: 55px;
+    border-radius: 20px;
+  }
+  .v44_14 {
+    width: 319px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 220px;
+    left: 55px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v44_15 {
+    width: 300px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 296px;
+    left: 64px;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v240_4 {
+    width: 237px;
+    height: 182px;
+    background: url("https://www.inlifehealthcare.com/wp-content/uploads/2016/08/3532aba7-f953-477c-82d8-ff67b672d18e.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 715px;
+    left: 96px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }

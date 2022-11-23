@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v80_4 {
+    width: 428px;
+    height: 926px;
+    background: rgba(255,87,116,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    margin:0px 500px;
+  }
+  .v196_4 {
+    width: 386px;
+    height: 878px;
+    background: rgba(247,146,164,1);
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v200_13 {
+    width: 66px;
+    height: 70px;
+  /*  background: url("../images/v200_13.png");*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 816px;
+    left: 34px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v200_5 {
+    width: 335px;
+    height: 93px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 64px;
+    left: 46px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v200_6 {
+    width: 130px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 89px;
+    left: 148px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v80_9 {
+    width: 292px;
+    height: 278px;
+    background: url("https://i1.sndcdn.com/artworks-000204567372-p79zhy-t500x500.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 213px;
+    left: 67px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v196_19 {
+    width: 355px;
+    height: 230px;
+    background: url("https://preview.redd.it/rcvun3uz1zp81.jpg?width=640&crop=smart&auto=webp&s=ca1a3514ed0c978ffa498fbfbc7ad14808add699");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 559px;
+    left: 35px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+  }

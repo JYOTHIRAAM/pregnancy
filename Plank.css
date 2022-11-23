@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v23_116 {
+    width: 428px;
+    height: 926px;
+    background: rgba(255,87,116,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    margin:0px 500px;
+  }
+  .v23_123 {
+    width: 368px;
+    height: 897px;
+    background: rgba(247,146,164,1);
+    opacity: 1;
+    position: absolute;
+    top: 19px;
+    left: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v109_64 {
+    width: 66px;
+    height: 70px;
+    /* background: url("../images/v109_64.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 814px;
+    left: 385px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v109_63 {
+    width: 66px;
+    height: 70px;
+    /* background: url("../images/v109_63.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 814px;
+    left: 46px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v45_11 {
+    width: 153px;
+    height: 138px;
+    background-image: url(https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000);
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 50px;
+    left: 137px;
+    border-radius: 100%;
+  }
+  .v23_167 {
+    width: 319px;
+    height: 590px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 310px;
+    left: 54px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .v23_158 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 220px;
+    left: 56px;
+    border-radius: 20px;
+  }
+  .v45_4 {
+    width: 311px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 235px;
+    left: 54px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v44_19 {
+    width: 288px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 300px;
+    left: 73px;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v240_6 {
+    width: 287px;
+    height: 187px;
+    background: url("https://pronatalfitness.com/wp-content/uploads/2019/01/Plank-cropped.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 670px;
+    left: 66px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }

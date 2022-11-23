@@ -4,40 +4,41 @@
   body {
     font-size: 14px;
   }
-  .v3_31 {
+  .v80_5 {
     width: 428px;
-    height: 926px;
+    height: 927px;
     background: rgba(255,87,116,1);
     opacity: 1;
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
     overflow: hidden;
+    margin:0px 500px;
   }
-  .v3_33 {
-    width: 368px;
-    height: 850px;
+  .v111_7 {
+    width: 377px;
+    height: 695px;
     background: rgba(247,146,164,1);
     opacity: 1;
     position: absolute;
-    top: 41px;
-    left: 30px;
+    top: 35px;
+    left: 27px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     overflow: hidden;
   }
-  .v109_30 {
+  .v200_18 {
     width: 66px;
     height: 70px;
-    /*background: url("../images/v109_30.png");*/
+   /* background: url("../images/v200_18.png");*/
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 813px;
+    top: 799px;
     left: 46px;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
@@ -45,118 +46,101 @@
     border-bottom-right-radius: 50px;
     overflow: hidden;
   }
-  .v22_21 {
-    width: 153px;
-    height: 138px;
-    background-image: url(https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000);
+  .v126_12 {
+    width: 201px;
+    height: 72px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 574px;
+    left: 110px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .name {
+    color: #fff;
+  }
+  .v111_8 {
+    width: 319px;
+    height: 62px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 307px;
+    left: 54px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v111_9 {
+    width: 319px;
+    height: 62px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 421px;
+    left: 54px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v122_2 {
+    width: 186px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 330px;
+    left: 121px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v122_3 {
+    width: 98px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 444px;
+    left: 125px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v126_68 {
+    width: 87px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 598px;
+    left: 183px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v196_3 {
+    width: 168px;
+    height: 157px;
+    background: url("https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 86px;
-    left: 137px;
-    border-radius: 100%;
-  }
-  .v22_22 {
-    width: 335px;
-    height: 93px;
-    background: rgba(255,201,211,1);
-    opacity: 1;
-    position: absolute;
-    top: 285px;
-    left: 46px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
+    top: 89px;
+    left: 130px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
     overflow: hidden;
-  }
-  .v22_26 {
-    width: 185px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 309px;
-    left: 120px;
-    font-family: Times New Roman;
-    font-weight: Regular;
-    font-size: 36px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v22_23 {
-    width: 335px;
-    height: 93px;
-    background: rgba(255,201,211,1);
-    opacity: 1;
-    position: absolute;
-    top: 417px;
-    left: 46px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
-    overflow: hidden;
-  }
-  .v22_27 {
-    width: 173px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 443px;
-    left: 132px;
-    font-family: Times New Roman;
-    font-weight: Regular;
-    font-size: 36px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v22_24 {
-    width: 335px;
-    height: 93px;
-    background: rgba(255,201,211,1);
-    opacity: 1;
-    position: absolute;
-    top: 549px;
-    left: 46px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
-    overflow: hidden;
-  }
-  .v213_3 {
-    width: 335px;
-    height: 93px;
-    background: rgba(255,201,211,1);
-    opacity: 1;
-    position: absolute;
-    top: 693px;
-    left: 46px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
-    overflow: hidden;
-  }
-  .v22_31 {
-    width: 214px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 719px;
-    left: 106px;
-    font-family: Times New Roman;
-    font-weight: Regular;
-    font-size: 36px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v213_4 {
-    width: 305px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 583px;
-    left: 60px;
-    font-family: Times New Roman;
-    font-weight: Regular;
-    font-size: 32px;
-    opacity: 1;
-    text-align: left;
   }

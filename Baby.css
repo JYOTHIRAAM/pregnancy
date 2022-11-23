@@ -1,0 +1,170 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v200_21 {
+    width: 428px;
+    height: 1743px;
+    background: rgba(255,87,116,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    margin:0px 500px;
+  }
+  .v200_22 {
+    width: 386px;
+    height: 100%;
+    background: rgba(247,146,164,1);
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v200_39 {
+    width: 223px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1027px;
+    left: 43px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v200_40 {
+    width: 302px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1200px;
+    left: 43px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v200_41 {
+    width: 300px;
+    height: 250px;
+    background: url("https://images-prod.healthline.com/hlcmsresource/images/AN_images/vegetarian-diet-plan-1296x728-feature.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1400px;
+    left: 61px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v200_42 {
+    width: 58px;
+    height: 70px;
+ /*   background: url("../images/v200_42.png");*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1635px;
+    left: 43px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v200_43 {
+    width: 318px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 339px;
+    left: 46px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 23px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v200_44 {
+    width: 322px;
+    height: 175px;
+    background: url("https://previews.123rf.com/images/devidgrutz/devidgrutz1810/devidgrutz181000584/110534429-credit-rating-indicator-vector-credit-financial-rate-and-level-vector-stock-illustration-.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 157px;
+    left: 42px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v200_45 {
+    width: 278px;
+    height: 81px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 57px;
+    left: 74px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v200_46 {
+    width: 217px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 83px;
+    left: 105px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v200_47 {
+    width: 290px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 475px;
+    left: 42px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v200_48 {
+    width: 315px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 673px;
+    left: 43px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v200_49 {
+    width: 312px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 852px;
+    left: 43px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }

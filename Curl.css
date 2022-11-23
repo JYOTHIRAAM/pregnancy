@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v23_105 {
+    width: 428px;
+    height: 926px;
+    background: rgba(255,87,116,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    margin:0px 500px;
+  }
+  .v23_109 {
+    width: 368px;
+    height: 844px;
+    background: rgba(247,146,164,1);
+    opacity: 1;
+    position: absolute;
+    top: 41px;
+    left: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v57_21 {
+    width: 368px;
+    height: 844px;
+    background: rgba(247,146,164,1);
+    opacity: 1;
+    position: absolute;
+    top: 41px;
+    left: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v109_68 {
+    width: 66px;
+    height: 70px;
+    /* background: url("../images/v109_68.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 802px;
+    left: 375px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v109_67 {
+    width: 66px;
+    height: 70px;
+    /* background: url("../images/v109_67.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 802px;
+    left: 44px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v47_8 {
+    width: 153px;
+    height: 138px;
+    background-image: url(https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000);
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 50px;
+    left: 137px;
+    border-radius: 100%;
+  }
+  .v28_10 {
+    width: 319px;
+    height: 542px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 320px;
+    left: 54px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v47_4 {
+    width: 208px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 199px;
+    left: 110px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v47_2 {
+    width: 319px;
+    height: 81px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 199px;
+    left: 54px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v47_7 {
+    width: 319px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 226px;
+    left: 56px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 27px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v44_20 {
+    width: 284px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 280px;
+    left: 79px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v240_10 {
+    width: 204px;
+    height: 181px;
+    background: url("https://www.parents.com/thmb/t2EvQkR7EbJZO4oODrugiAbd_D4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/simple-trimester-exercises-5-42b00f377a6f440b92dc485afe31c01b.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 667px;
+    left: 119px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }

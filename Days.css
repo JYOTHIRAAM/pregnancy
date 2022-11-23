@@ -1,0 +1,241 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v23_103 {
+    width: 428px;
+    height: 926px;
+    margin: 0px 500px;
+    background: rgba(255,87,116,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v23_108 {
+    width: 368px;
+    height: 800px;
+    background: rgba(247,146,164,1);
+    opacity: 1;
+    position: absolute;
+    top: 41px;
+    left: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v109_33 {
+    width: 66px;
+    height: 70px;
+    /*background: url("../images/v109_33.png");*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 813px;
+    left: 46px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v23_126 {
+    width: 153px;
+    height: 138px;
+    background-image: url(https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000);
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 70px;
+    left: 137px;
+    border-radius: 100%;
+  }
+  .v22_43 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 224px;
+    left: 53px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v22_51 {
+    width: 148px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 236px;
+    left: 154px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 29px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v22_44 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 311px;
+    left: 53px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v22_45 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 389px;
+    left: 53px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v22_46 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 471px;
+    left: 53px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v22_47 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 558px;
+    left: 53px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v22_48 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 642px;
+    left: 53px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v22_56 {
+    width: 135px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 654px;
+    left: 154px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 29px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v22_49 {
+    width: 319px;
+    height: 57px;
+    background: rgba(255,201,211,1);
+    opacity: 1;
+    position: absolute;
+    top: 721px;
+    left: 53px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+  }
+  .v22_57 {
+    width: 193px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 733px;
+    left: 138px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 29px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v22_52 {
+    width: 157px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 323px;
+    left: 154px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 29px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v22_53 {
+    width: 168px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 400px;
+    left: 154px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 29px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v22_54 {
+    width: 228px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 483px;
+    left: 124px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 29px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v22_55 {
+    width: 196px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 570px;
+    left: 134px;
+    font-family: Times New Roman;
+    font-weight: Regular;
+    font-size: 29px;
+    opacity: 1;
+    text-align: left;
+  }

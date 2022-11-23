@@ -4,60 +4,65 @@
   body {
     font-size: 14px;
   }
-  .v23_2 {
+  .v57_18 {
     width: 428px;
     height: 926px;
     background: rgba(255,87,116,1);
     opacity: 1;
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
     overflow: hidden;
+    margin:0px 500px;
   }
-  .v22_19 {
-    width: 368px;
-    height: 844px;
+  .v57_19 {
+    width: 100px;
+    height: 100px;
+    /* background: url("../images/v57_19.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 325px;
+    left: 67px;
+    overflow: hidden;
+  }
+  .v57_31 {
+    width: 376px;
+    height: 870px;
     background: rgba(247,146,164,1);
     opacity: 1;
     position: absolute;
-    top: 41px;
-    left: 30px;
+    top: 29px;
+    left: 25px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     overflow: hidden;
   }
-  .v22_33 {
-    width: 335px;
-    height: 93px;
-    background: rgba(255,201,211,1);
+  .v126_35 {
+    width: 66px;
+    height: 70px;
+    /* background: url("../images/v126_35.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 285px;
-    left: 46px;
+    top: 802px;
+    left: 44px;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
     overflow: hidden;
   }
-  .v22_38 {
-    width: 221px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 311px;
-    left: 120px;
-    font-family: Times New Roman;
-    font-weight: Regular;
-    font-size: 36px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v22_32 {
+  .v57_33 {
     width: 153px;
     height: 138px;
-    background-image: url("https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000");
+    background-image: url(https://img.freepik.com/premium-vector/pregnant-logo-with-fetus-concept_11481-963.jpg?w=2000);
     background-size: cover;
     opacity: 1;
     position: absolute;
@@ -65,55 +70,63 @@
     left: 137px;
     border-radius: 100%;
   }
-  .v22_36 {
+  .v62_5 {
     width: 335px;
     height: 93px;
     background: rgba(255,201,211,1);
     opacity: 1;
     position: absolute;
-    top: 439px;
-    left: 46px;
+    top: 260px;
+    left: 47px;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
     overflow: hidden;
   }
-  .v22_40 {
+  .v62_7 {
     width: 275px;
     color: rgba(0,0,0,1);
     position: absolute;
-    top: 465px;
-    left: 117px;
+    top: 284px;
+    left: 76px;
     font-family: Times New Roman;
     font-weight: Regular;
     font-size: 36px;
     opacity: 1;
-    text-align: left;
+    text-align: center;
   }
-  .v22_37 {
+  .v62_8 {
     width: 335px;
-    height: 93px;
+    height: 378px;
     background: rgba(255,201,211,1);
     opacity: 1;
     position: absolute;
-    top: 593px;
-    left: 46px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
+    top: 394px;
+    left: 45px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
     overflow: hidden;
   }
-  .v22_41 {
-    width: 397px;
+  .v70_3 {
+    width: 288px;
     color: rgba(0,0,0,1);
     position: absolute;
-    top: 619px;
-    left: 108px;
-    font-family: Times New Roman;
-    font-weight: Regular;
-    font-size: 29px;
+    top: 410px;
+    left: 63px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v70_4 {
+    width: 288px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 589px;
+    left: 59px;
+    font-size: 16px;
     opacity: 1;
     text-align: left;
   }
