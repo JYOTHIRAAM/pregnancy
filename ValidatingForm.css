@@ -1,0 +1,30 @@
+.container{
+    margin-top: 140px;
+    width: 400px;
+    height: 450px;
+    border-radius: 3%;
+    padding: 1%;
+    color: wheat;
+    background-color: lightslategrey;
+}
+.row{
+    color: wheat;
+    font-size: larger;
+}
+input{
+    border-radius: 10px;
+    border-color: lightblue;
+    width: 250px;
+    height: 30px;
+}
+button{
+    border-radius: 10px;
+    width: 75px;
+    height: 30px;
+}
+button:hover:not(.active){
+    border-radius: 10px;
+    width: 75px;
+    height: 30px;
+    background-color: wheat;
+}
